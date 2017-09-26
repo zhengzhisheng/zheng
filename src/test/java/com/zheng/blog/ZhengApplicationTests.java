@@ -11,7 +11,7 @@ public class ZhengApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		System.out.println("aa");
+		System.out.println("hello,world!");
 	}
 
 }
